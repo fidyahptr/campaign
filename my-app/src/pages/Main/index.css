@@ -1,0 +1,23 @@
+.list {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+}
+
+.mainImg {
+    width: 100vw;
+    height: 500px;
+}
+
+.posisitionText {
+    position: absolute;
+    top: 0;
+    color: white;
+}
+
+.posisitionText2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: white;
+}
